@@ -11,8 +11,8 @@ Welcome to my portfolio! 🚀 This repository showcases projects in **Artificial
   - Applied Large Language Models and prompt engineering for text classification  
   - Exploratory Data Analysis and data manipulation for preprocessing  
   - Automated ticket triaging for faster resolution  
-- **Live Demo:** [View Demo](https://Abirami37.github.io/creer-ai-portfolio/project1.html)
-- **Code:** [Source](./project1.html)
+- **Live Demo:** [View Demo](https://Abirami37.github.io/career-ai-portfolio/Support_ticket_Categorization_NLP.html)
+- **Code:** [Source](./Support_ticket_Categorization_NLP.html)
 
 ---
 
@@ -23,8 +23,8 @@ Welcome to my portfolio! 🚀 This repository showcases projects in **Artificial
   - Data preprocessing and feature engineering for customer datasets  
   - ANN model training with regularization to prevent overfitting  
   - Evaluation using accuracy and F1 score  
-- **Live Demo:** [View Demo](https://username.github.io/portfolio/project2.html)
-- **Code:** [Source](./project2.html)
+- **Live Demo:** [View Demo](https://Abirami37.github.io/career_ai_portfolio/Bank_Churn_Prediction_Neural_Network.html)
+- **Code:** [Source](./Bank_Churn_Prediction_Neural_Network.html)
 
 ---
 
@@ -35,8 +35,8 @@ Welcome to my portfolio! 🚀 This repository showcases projects in **Artificial
   - Applied ensemble methods (Bagging, Boosting) with SMOTE for class imbalance  
   - Hyperparameter tuning and cross‑validation for robust performance  
   - Delivered actionable insights for customer retention strategies  
-- **Live Demo:** [View Demo](https://username.github.io/portfolio/project3.html)
-- **Code:** [Source](./project3.html)
+- **Live Demo:** [View Demo](https://Abirami37.github.io/career_ai_portfolio/Credit_card_users_churn_prediction_Adv_ML.html)
+- **Code:** [Source](./Credit_card_users_churn_prediction_Adv_ML.html)
 
 ---
 
@@ -47,8 +47,10 @@ Welcome to my portfolio! 🚀 This repository showcases projects in **Artificial
   - Data preprocessing and missing value treatment  
   - Decision tree modeling with pruning for interpretability  
   - Business recommendations for targeted loan campaigns  
+- **Live Demo:** [View Demo](https://Abirami37.github.io/career_ai_portfolio/Bank_loan_Campaign_ML.html)
+- **Code:** [Source](./Bank_loan_Campaign_ML.html)
 
-
+ 
 ---
 
 ### 5. AI Project – FoodHub Analysis  
@@ -58,7 +60,9 @@ Welcome to my portfolio! 🚀 This repository showcases projects in **Artificial
   - Univariate and bivariate analysis for customer demand insights  
   - Visualization of restaurant and cuisine trends  
   - Business recommendations to enhance customer experience  
-
+- **Live Demo:** [View Demo](https://Abirami37.github.io/career_ai_portfolio/Python_Food_hub_Data_Analysis.html)
+- **Code:** [Source](./Python_Food_hub_Data_Analysis.html)
+  
 
 ## 🛠️ How to Run Locally
 1. Clone the repo:
